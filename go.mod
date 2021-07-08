@@ -11,7 +11,7 @@ replace (
 require (
 	github.com/atotto/clipboard v0.1.4
 	github.com/cenkalti/backoff v2.2.1+incompatible
-	github.com/cenkalti/backoff/v4 v4.1.0
+	github.com/cenkalti/backoff/v4 v4.1.1
 	github.com/derailed/popeye v0.9.0
 	github.com/derailed/tview v0.6.1
 	github.com/drone/envsubst v1.0.2 // indirect
